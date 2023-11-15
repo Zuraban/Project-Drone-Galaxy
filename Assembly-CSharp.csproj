@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D44E4C80-C614-6091-23B8-8AF55A585C43}</ProjectGuid>
+    <ProjectGuid>{68E639AE-7B2D-82AE-DFDD-3A2428D2DEAE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,34 +60,13 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2023.1.16f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/sctipts/BlinkingText.cs" />
     <Compile Include="Assets/DroneExplorer/Scripts/Drone/PlayerMouseLook.cs" />
-    <Compile Include="Assets/sctipts/PlayerContollerL.cs" />
     <Compile Include="Assets/DroneExplorer/Scripts/Drone/PlayerXbox.cs" />
-    <Compile Include="Assets/sctipts/BestTimeDisplay.cs" />
-    <Compile Include="Assets/sctipts/DroneMovement.cs" />
-    <Compile Include="Assets/sctipts/GameManager.cs" />
-    <Compile Include="Assets/sctipts/CountdownTimer.cs" />
-    <Compile Include="Assets/sctipts/StarWarsText.cs" />
-    <Compile Include="Assets/sctipts/Input Controls.cs" />
-    <Compile Include="Assets/sctipts/FinalText.cs" />
-    <Compile Include="Assets/sctipts/Gate.cs" />
     <Compile Include="Assets/Packages/Mars Landscape 3D/Prefabs/Materials/test.cs" />
-    <Compile Include="Assets/sctipts/GameOverText.cs" />
     <Compile Include="Assets/Drone/DroneCanvasC.cs" />
-    <Compile Include="Assets/sctipts/MoveableOne.cs" />
-    <Compile Include="Assets/sctipts/PropellerRotation.cs" />
-    <Compile Include="Assets/sctipts/LevelManager.cs" />
-    <Compile Include="Assets/sctipts/LevelExit.cs" />
-    <Compile Include="Assets/sctipts/AboutText.cs" />
     <Compile Include="Assets/DroneExplorer/Scripts/Drone/DroneLook.cs" />
     <Compile Include="Assets/DroneExplorer/Scripts/Drone/CmnInterface.cs" />
     <Compile Include="Assets/DroneExplorer/Scripts/Drone/DroneRigidBody.cs" />
-    <Compile Include="Assets/sctipts/GateText.cs" />
-    <Compile Include="Assets/sctipts/PlayerControllerH.cs" />
-    <Compile Include="Assets/sctipts/Timer.cs" />
-    <Compile Include="Assets/sctipts/MoveableSecond.cs" />
-    <Compile Include="Assets/sctipts/MenuManager.cs" />
     <Compile Include="Assets/Drone/DroneControlC.cs" />
     <Compile Include="Assets/DroneExplorer/Scripts/Drone/Spinner.cs" />
   </ItemGroup>
