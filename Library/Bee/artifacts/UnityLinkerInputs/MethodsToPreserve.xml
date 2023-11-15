@@ -1,0 +1,29 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameManager">
+			<method name="QuitGame"/>
+		</type>
+		<type fullname="MenuManager">
+			<method name="LoadLevel"/>
+			<method name="LoadLevel"/>
+			<method name="LoadLevel"/>
+			<method name="LoadLevel"/>
+		</type>
+		<type fullname="PlayerContollerL">
+			<method name="OnMove"/>
+			<method name="OnMove"/>
+			<method name="OnMove"/>
+			<method name="OnPause"/>
+			<method name="OnPause"/>
+			<method name="OnPause"/>
+			<method name="OnReturnToMenu"/>
+			<method name="OnReturnToMenu"/>
+			<method name="OnReturnToMenu"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.InputSystem" ignoreIfMissing="1">
+		<type fullname="UnityEngine.InputSystem.PlayerInput">
+			<method name="set_actions"/>
+		</type>
+	</assembly>
+</linker>

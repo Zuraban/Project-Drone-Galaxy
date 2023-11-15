@@ -1,0 +1,319 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1700065118939586, "dur":60, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700065118939672, "dur":38214, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700065118977903, "dur":121, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700065118978076, "dur":200, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700065118982000, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700065118982070, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700065118982822, "dur":170, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1700065118984138, "dur":127, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1700065118978290, "dur":6116, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700065118984407, "dur":1117188, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700065120101704, "dur":3721, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1700065118978222, "dur":6210, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700065118984437, "dur":23065, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700065119007963, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/Users/Macbook 2017/Desktop/Project Drone/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065119008085, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/Users/Macbook 2017/Desktop/Project Drone/Library/Bee/PlayerScriptAssemblies/JBooth.MicroSplat.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065119008141, "dur":632, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/Users/Macbook 2017/Desktop/Project Drone/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065119008825, "dur":238, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/Users/Macbook 2017/Desktop/Project Drone/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065119009065, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/Users/Macbook 2017/Desktop/Project Drone/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065119009178, "dur":181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/Users/Macbook 2017/Desktop/Project Drone/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065119013952, "dur":160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/Users/Macbook 2017/Desktop/Project Drone/Library/Bee/artifacts/UnityLinkerInputs/MethodsToPreserve.xml" }}
+,{ "pid":12345, "tid":1, "ts":1700065119014635, "dur":101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"/Users/Macbook 2017/Desktop/Project Drone/Library/Bee/artifacts/UnityLinkerInputs/EditorToUnityLinkerData.json" }}
+,{ "pid":12345, "tid":1, "ts":1700065119007508, "dur":27747, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker /Users/Macbook 2017/Desktop/Project Drone/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1700065119035260, "dur":264, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700065120064048, "dur":1779, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700065119061480, "dur":1005297, "ph":"X", "name": "UnityLinker",  "args": { "detail":"/Users/Macbook 2017/Desktop/Project Drone/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1700065120077200, "dur":622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120077850, "dur":640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120079045, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700065120078531, "dur":595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120079157, "dur":387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120079587, "dur":450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120080068, "dur":835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120080904, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120081104, "dur":889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120082024, "dur":401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120082426, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120083282, "dur":80, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700065120082782, "dur":591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120083389, "dur":285, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120083374, "dur":301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120083718, "dur":546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120084293, "dur":608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120084931, "dur":492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120085459, "dur":425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120085965, "dur":397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120086388, "dur":530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120086945, "dur":416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120087376, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120087362, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120087508, "dur":670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120088212, "dur":528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120088775, "dur":708, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120088741, "dur":743, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120089499, "dur":681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120090820, "dur":161, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1700065120090210, "dur":784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120091028, "dur":945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120092004, "dur":418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120092449, "dur":413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120092889, "dur":4874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120097792, "dur":464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120098304, "dur":2420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1700065120100725, "dur":856, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118978239, "dur":6204, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118984469, "dur":181, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118984678, "dur":160, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118984839, "dur":203, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118985043, "dur":192, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118985235, "dur":195, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118985430, "dur":195, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118985625, "dur":198, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118985823, "dur":189, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118986012, "dur":257, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118986269, "dur":203, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118986472, "dur":201, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118986673, "dur":208, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118986943, "dur":1931, "ph":"X", "name": "File",  "args": { "detail":"/Applications/Unity/Hub/Editor/2023.1.16f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/System.Resources.ResourceManager.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065118986881, "dur":2127, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065118989008, "dur":19718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065119009177, "dur":393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1700065119009642, "dur":385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1700065119010529, "dur":765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1700065119011301, "dur":53, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065119012163, "dur":534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1700065119012840, "dur":1421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1700065119014447, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1700065119014596, "dur":216, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065119015226, "dur":812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1700065119016086, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1700065119016223, "dur":792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1700065119017062, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1700065119017162, "dur":1314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1700065119019165, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1700065119019453, "dur":351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1700065119019878, "dur":361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1700065119020254, "dur":514, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1700065119020796, "dur":387, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065119021200, "dur":1883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1700065119023416, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065119023789, "dur":542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065119024372, "dur":326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing.exe" }}
+,{ "pid":12345, "tid":2, "ts":1700065119024709, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1700065119024893, "dur":496, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065119026304, "dur":886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1700065119027707, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065119028045, "dur":924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065119030717, "dur":3248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets5.resource" }}
+,{ "pid":12345, "tid":2, "ts":1700065119034427, "dur":2777, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065119037209, "dur":4278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1700065119041730, "dur":1369, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1700065119043103, "dur":1650, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065119048038, "dur":361, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065119044776, "dur":3638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1700065119049804, "dur":1462, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065119048470, "dur":2808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1700065119051306, "dur":368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1700065119054642, "dur":215, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065119051700, "dur":3175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":2, "ts":1700065119054909, "dur":397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1700065119055331, "dur":316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1700065119055671, "dur":689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1700065119056608, "dur":256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1700065119056881, "dur":243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/resources.resource" }}
+,{ "pid":12345, "tid":2, "ts":1700065119057170, "dur":447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1700065119057642, "dur":388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1700065119058054, "dur":404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level6.resS" }}
+,{ "pid":12345, "tid":2, "ts":1700065119058482, "dur":10864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level6" }}
+,{ "pid":12345, "tid":2, "ts":1700065119070290, "dur":185, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065119069400, "dur":1087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1700065119070518, "dur":17503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1700065119088042, "dur":260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1700065119088319, "dur":217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":2, "ts":1700065119088542, "dur":988461, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065120077206, "dur":446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120077683, "dur":684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120078398, "dur":667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120079093, "dur":188, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120079066, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120079298, "dur":553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120079873, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065120079941, "dur":870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120080812, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120081130, "dur":590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120081749, "dur":400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120082178, "dur":713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120082892, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120083284, "dur":412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120083741, "dur":672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120084429, "dur":259, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120084413, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120085391, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065120084706, "dur":759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120085516, "dur":76, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065120086041, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065120085597, "dur":515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120086135, "dur":109, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1700065120086247, "dur":555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120086838, "dur":626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120087497, "dur":530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120088048, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120088152, "dur":511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120088785, "dur":407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120089193, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120089363, "dur":355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120089746, "dur":546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120090321, "dur":648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120091090, "dur":637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120091728, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120091792, "dur":8872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1700065120100664, "dur":903, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065118978265, "dur":8804, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065118987071, "dur":207, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065118987278, "dur":203, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065118987481, "dur":197, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065118987679, "dur":194, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065118987874, "dur":195, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065118988070, "dur":190, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065118988260, "dur":197, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065118988458, "dur":176, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065118988635, "dur":165, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065118988834, "dur":18678, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065119007524, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":3, "ts":1700065119008661, "dur":1312, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065119011434, "dur":715, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":3, "ts":1700065119012417, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library/PlayerDataCache/Win642/Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1700065119017273, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library/Bee/Player86d6ac9a-inputdata.json" }}
+,{ "pid":12345, "tid":3, "ts":1700065119012151, "dur":5507, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1700065119018163, "dur":102, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065119019181, "dur":237100, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1700065119259524, "dur":367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1700065119259893, "dur":817120, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065120077272, "dur":438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120078846, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065120077737, "dur":1188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120078950, "dur":116, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065120079071, "dur":840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120079956, "dur":528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120080513, "dur":533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120081096, "dur":789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120081907, "dur":324, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065120082235, "dur":597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120082833, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120082999, "dur":404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120084045, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065120083430, "dur":707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120084204, "dur":704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120085405, "dur":76, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065120084937, "dur":554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120085515, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065120086081, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065120085572, "dur":590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120086184, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065120086311, "dur":587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120086898, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120087075, "dur":1046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120088966, "dur":159, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065120088164, "dur":973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120089165, "dur":398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120089606, "dur":593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120090787, "dur":166, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1700065120090228, "dur":736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120090998, "dur":636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120091663, "dur":466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120092157, "dur":506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120092694, "dur":4913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120097640, "dur":398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120098066, "dur":425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120098523, "dur":556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120099107, "dur":409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120099543, "dur":416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120099985, "dur":425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1700065120100437, "dur":703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065118978283, "dur":10563, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065118988848, "dur":18670, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065119008707, "dur":1258, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1700065119009968, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1700065119010743, "dur":953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1700065119011697, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1700065119012112, "dur":633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1700065119012782, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1700065119012877, "dur":1333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1700065119014419, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1700065119015014, "dur":879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1700065119016091, "dur":890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1700065119017072, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1700065119019123, "dur":1083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1700065119020250, "dur":333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1700065119021156, "dur":2171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1700065119023490, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065119023863, "dur":621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065119024713, "dur":1662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1700065119027124, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1700065119027343, "dur":516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1700065119028768, "dur":144, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065119027922, "dur":1002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":4, "ts":1700065119029417, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":4, "ts":1700065119030928, "dur":3062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":4, "ts":1700065119034275, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets4.resource" }}
+,{ "pid":12345, "tid":4, "ts":1700065119034411, "dur":1789, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065119036206, "dur":393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets4.resource" }}
+,{ "pid":12345, "tid":4, "ts":1700065119036655, "dur":4704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":4, "ts":1700065119048136, "dur":1697, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065119042709, "dur":7157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":4, "ts":1700065119049898, "dur":384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":4, "ts":1700065119050306, "dur":422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":4, "ts":1700065119052383, "dur":1171, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065119050753, "dur":2816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1700065119053650, "dur":5250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1700065119058925, "dur":379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level5.resS" }}
+,{ "pid":12345, "tid":4, "ts":1700065119059327, "dur":5547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level5" }}
+,{ "pid":12345, "tid":4, "ts":1700065119064904, "dur":388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level4.resS" }}
+,{ "pid":12345, "tid":4, "ts":1700065119065317, "dur":337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level4" }}
+,{ "pid":12345, "tid":4, "ts":1700065119065676, "dur":318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level3.resS" }}
+,{ "pid":12345, "tid":4, "ts":1700065119066016, "dur":343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level3" }}
+,{ "pid":12345, "tid":4, "ts":1700065119066383, "dur":678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level2.resS" }}
+,{ "pid":12345, "tid":4, "ts":1700065119067086, "dur":338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level2" }}
+,{ "pid":12345, "tid":4, "ts":1700065119078441, "dur":106, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065119067453, "dur":11108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level1.resS" }}
+,{ "pid":12345, "tid":4, "ts":1700065119078610, "dur":7165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1700065119085806, "dur":9536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1700065119095358, "dur":981669, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065120077028, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120077586, "dur":431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120078863, "dur":113, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065120078043, "dur":943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120079016, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065120079090, "dur":476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120079740, "dur":1000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120080741, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120080888, "dur":1064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120082019, "dur":775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120083122, "dur":497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120083649, "dur":522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120084194, "dur":101, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065120084299, "dur":549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120084870, "dur":93, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065120085452, "dur":83, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065120084970, "dur":575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120085580, "dur":99, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065120085683, "dur":530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120086242, "dur":563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120086828, "dur":91, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1700065120086924, "dur":456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120087478, "dur":529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120088008, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120088138, "dur":729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120088896, "dur":772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120089695, "dur":514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120090238, "dur":623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120090890, "dur":646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120091550, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/ManagedStripped/JBooth.MicroSplat.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120091537, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/JBooth.MicroSplat.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120091633, "dur":8116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/JBooth.MicroSplat.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120099776, "dur":410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120100228, "dur":401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/Users/Macbook 2017/Desktop/Drone across the galaxy./Car Runing_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1700065120100630, "dur":918, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1700065120110464, "dur":437, "ph":"X", "name": "ProfilerWriteOutput" }
+,

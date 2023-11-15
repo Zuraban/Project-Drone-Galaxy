@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu 2.unity
+    guid: 8cd6070acf22b40a490fe9c244f313b4
+  - enabled: 1
+    path: Assets/Scenes/Scene 1.unity
+    guid: 1a5bb5d3a050c4bd1b0f37d56c988d4f
+  - enabled: 1
+    path: Assets/Scenes/Scene 2.unity
+    guid: 9ee22d97dab0646afa3d09fca6885730
+  - enabled: 1
+    path: Assets/Scenes/Scene 3.unity
+    guid: 0fae0de08d58343f9ae2ea687baa7525
+  - enabled: 0
+    path: Packages/com.jbooth.microsplat.core/Examples/Scene/Terrain.unity
+    guid: 4badc44b23c10411ca9abcb0fde982c7
+  - enabled: 1
+    path: Assets/Scenes/Happy END.unity
+    guid: 0504382a21e40463a95387f993987d11
+  - enabled: 1
+    path: Assets/Scenes/Text Leve !.unity
+    guid: a8d55f213e6354bf99de7a769a8df5d5
+  - enabled: 1
+    path: Assets/Scenes/Abot Game.unity
+    guid: 15cc1f119bf8e4ec1886950ee2256eeb
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 5c9a2d5167b4c4fe1b541cfc625f8577, type: 2}
+  m_UseUCBPForAssetBundles: 0
